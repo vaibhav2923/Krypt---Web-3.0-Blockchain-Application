@@ -4,20 +4,20 @@
 krypt an blockchain wallet for secure and fast transactions. Developed an blockchain web 3.0 decentralised ethereum wallet for exchange of ethereums.
 
 
-# technology used
+# Technology used
 
 Solidity programming language for implementing smart contract.
 
-## frontend
+## Frontend
 
 
-React.js
-tailwindcss
-HTML5
-next.js
+React.js//
+tailwindcss//
+HTML5//
+next.js//
 
 
-## backend
+## Backend
 
 
 firebase
