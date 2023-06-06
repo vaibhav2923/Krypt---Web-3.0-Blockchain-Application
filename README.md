@@ -11,10 +11,10 @@ Solidity programming language for implementing smart contract.
 ## Frontend
 
 
-React.js//
-tailwindcss//
-HTML5//
-next.js//
+React.js<br>
+tailwindcss<br>
+HTML5<br>
+next.js<br>
 
 
 ## Backend
